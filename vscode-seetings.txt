@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai-Midnight",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 2,
+    "files.autoSave": "afterDelay",
+    "settingsSync.ignoredSettings": [
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
