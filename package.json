@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon 2.modules/3.third-party.js",
+    "start": "nodemon src/3.APIs/StudentMongoAPI.js",
     "dev-start": "node app.js"
   },
   "keywords": [],
